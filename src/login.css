@@ -1,0 +1,55 @@
+main
+{
+	padding-top: 2em;
+}
+
+.login-form
+{
+    padding: 3%;
+}
+.login-form h1
+{
+	font-size: 1.2em;
+    text-align: center;
+    color: #000;
+}
+
+.login-form h2
+{
+	font-size: 1em;
+	text-align: center;
+	color: #000;
+	font-weight: normal;
+}
+
+.btnSubmit
+{
+    width: 50%;
+    border-radius: .3rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form .btnSubmit
+{
+    font-weight: 600;
+    color: #000;
+    background-color: #fff;
+}
+
+.login-form .ForgetPwd
+{
+    color: #000;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.login-splash, .login-form
+{
+	margin-bottom: 0;
+}
+
+.signup
+{
+	text-align: center;
+}
