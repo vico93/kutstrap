@@ -1,6 +1,6 @@
 # LICENSE
 
-Copyright (c) 2016 Vinícius "vico" Pontin da Silva
+Copyright (c) 2016 Vinícius "vico" Pontin da Silva & collaborators
 
 Permission to use, copy, modify and/or distribute this software and
 associated documentation files (the "Software") in both binary
